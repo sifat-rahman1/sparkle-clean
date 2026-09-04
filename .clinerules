@@ -1,0 +1,1265 @@
+﻿# Awesome CSS Resources [![Awesome](https://awesome.re/badge.svg)](https://github.com/MarketingPipeline/Awesome-CSS-Resources/)
+
+
+<p align="center">
+  <img height="400" src="https://imgur.com/ciw2AIa.png" />
+</p>
+<div align="center">
+The only list of CSS/SCSS frameworks & resources you will ever need.
+  
+  
+   <br>
+  <small> <b><i>Show your support!</i> </b></small>
+  <br>
+   <a href="https://github.com/MarketingPipeline/Awesome-CSS-Resources">
+    <img title="Star on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/Awesome-CSS-Resources.svg?style=social&label=Star">
+  </a>
+  <a href="https://github.com/MarketingPipeline/Awesome-CSS-Resources/fork">
+    <img title="Fork on GitHub" src="https://img.shields.io/github/forks/MarketingPipeline/Awesome-CSS-Resources.svg?style=social&label=Fork">
+  </a>
+   </p>  
+ </div>
+
+
+## Contents
+
+- [Frameworks & Resources](#frameworks--resources)
+    - [0-9](#0-9) | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) |
+ [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) 
+| [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) 
+| [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) 
+| [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)
+
+## Frameworks / Resources
+
+### 0-9
+
+[7.css:](https://github.com/khang-nd/7.css) A tiny CSS framework for building faithful recreations of the Windows 7 UI.
+
+[98.css:](https://github.com/jdan/98.css) A design system for building faithful recreations of old UIs. 
+ 
+### A  
+
+[a11y.css:](https://github.com/ffoodd/a11y.css) This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external stylesheet.
+ 
+[adidas-yarn-design-system:](https://github.com/adidas/adidas-yarn-design-system) YARN is a frontend toolkit for developing with HTML, CSS and JS with adidas style. It provides the base layout for frontend applications
+
+[AESTHETIC CSS:](https://github.com/torch2424/aesthetic-css) A vaporwave CSS framework. 🌴🐬
+  
+[agnosticui:](https://github.com/agnosticui/agnosticui) is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and Svelte.  
+  
+[Amaze UI:](https://github.com/amazeui/amazeui) A mobile-first and modular front-end framework.
+
+[animate.css:](https://github.com/animate-css/animate.css)  A cross-browser library of CSS animations. As easy to use as an easy thing.
+
+[Animista:](https://animista.net/) CSS animations on demand! 
+
+[astro:](https://github.com/magnetis/astro) An open source design system by Magnetis  
+  
+[Avalanche:](https://github.com/avalanchesass/avalanche) A package based CSS framework.
+
+[aqua.css:](https://github.com/alphardex/aqua.css) A elegant CSS Framework.
+  
+[augmented-ui:](https://github.com/propjockey/augmented-ui) Cyberpunk-inspired web UI made easy. Get augmented.  
+
+[awsm.css:](https://github.com/igoradamenko/awsm.css) Simple CSS library for semantic HTML markup.
+  
+[axis:](https://github.com/static-dev/axis) is a large and robust css utility library built on top of stylus. 
+
+### B 
+
+[Bahunya:](https://github.com/Kimeiga/bahunya) 10KB classless CSS framework with responsive typography, navbar, syntax highlighting, etc.  
+  
+[balloon.css:](https://github.com/kazzkiq/balloon.css) Simple tooltips made of pure CSS.
+
+[base:](https://github.com/getbase/base) A Rock Solid, Responsive CSS Framework built to work on all devices big, small and in-between.
+  
+[baseguide:](https://github.com/slavanga/baseguide)  is a lightweight and robust CSS framework for prototyping and production code. Flexible, fluid and fun CSS framework.    
+
+[Basic.css:](https://github.com/vladocar/Basic.css) Classless CSS Starter File.
+
+[basscss:](https://github.com/basscss/basscss/) Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library.
+  
+[beauter:](https://github.com/outboxcraft/beauter/) A simple framework for faster and beautiful responsive sites. 
+  
+[Beercss:](https://github.com/beercss/beercss) Build material design interfaces in record time... without stress for devs... 🍺💛
+  
+[Blitz:](https://github.com/FriendsOfEpub/Blitz) An eBook Framework (CSS + template).  
+  
+[blocks.css:](https://github.com/thesephist/blocks.css) Add some dimension to your page with blocks 🚀.  
+  
+[blueprint:](https://github.com/palantir/blueprint) A React-based UI toolkit for the web.
+
+[Bojler:](https://github.com/Slicejack/bojler) Is a CSS framework for email's.  
+  
+[bonsai.css:](https://github.com/bonsaicss/bonsai.css) A Utility Complete CSS Framework for less than 45kb (8kB Gzipped).  
+ 
+[Bootflat:](https://github.com/bootflat/bootflat.github.io) Is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.
+  
+[BOOTSTRA.386:](https://github.com/kristopolous/BOOTSTRA.386) A vintage 1980s DOS inspired Twitter Bootstrap theme.    
+  
+[bootstrap-button-designer:](https://github.com/wawrow/bootstrap-button-designer) simple js button designer for bootstrap.  
+  
+[bootstrap:](https://github.com/twbs/bootstrap) The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+
+[bourbon:](https://github.com/thoughtbot/bourbon/) A Lightweight Sass Tool Set.
+  
+[box-shadows.css:](https://github.com/madeas/box-shadows.css) A cross-browser collection of CSS box-shadows.  
+  
+[bttn.css:](https://github.com/ganapativs/bttn.css) Awesome buttons for awesome projects!  
+
+[bulma:](https://github.com/jgthms/bulma) Modern CSS framework based on Flexbox.
+  
+[butterCake:](https://github.com/himasrafeek/butterCake) Material Design Components, Responsive and Modern CSS Framework Built with Flexbox 🍰  
+
+### C  
+
+[Caramel.CSS:](https://github.com/caramelcss/caramel) A simple to use, easy to remember css framework.  
+
+[carbon:](https://github.com/carbon-design-system/carbon) A design system built by IBM.
+  
+[CasCare.css:](https://github.com/rkjain119/CasCare) is a light-weight and responsive open source CSS library.
+  
+[Catto-CSS:](https://github.com/Avalojandro/Catto-CSS) Library of CSS animations easy and quick to use.  
+  
+[Centurion:](https://github.com/justinhough/Centurion) Is a web-based framework for rapid prototyping and building larger web projects.  
+  
+[Charts.css:](https://github.com/ChartsCSS/charts.css) Open source CSS framework for data visualization. 
+ 
+[checkbox.css:](https://github.com/720kb/checkbox.css) Tiny set of pure CSS animations for your checkbox input.  
+  
+[chemistry-css:](https://github.com/mathexl/chemistry-css) A chemistry CSS library for creating Chemical Structures and Equations with just HTML.  
+  
+[chota:](https://github.com/jenil/chota) A micro (3kb) CSS framework.
+  
+[Cirrus:](https://github.com/Spiderpig86/Cirrus) The SCSS framework for the modern web.
+  
+[classic.css:](https://github.com/npjg/classic.css) Generate a Classic Mac interface in your browser.  
+  
+[clean-switch:](https://github.com/miladd3/clean-switch) Material Inspired Pure CSS toggle switch.  
+  
+[codyhouse-framework:](https://github.com/CodyHouse/codyhouse-framework) A lightweight front-end framework for building accessible, bespoke interfaces.
+  
+[coraline:](https://github.com/isradeleon/coraline) Alternative CSS only framework based on Flexbox.
+
+[coolcss:](https://github.com/peruvianidol/coolcss) The last CSS framework I'll (hopefully) ever have to make
+  
+[Crayon.css:](https://github.com/riccardoscalco/crayon) is a list of css variables linking color names to hex values.
+
+[critical:](https://github.com/addyosmani/critical) Extract & Inline Critical-path CSS in HTML pages.
+
+[Concise.css:](https://github.com/ConciseCSS/concise.css) A CSS framework that's lightweight and easy-to-use. Give up the bloat. Stop tripping over your classes. Be Concise.
+
+[css-buttons:](https://github.com/eludadev/css-buttons) 100 Modern CSS Buttons, Free And Royalty Free.
+  
+[css-spinners:](https://github.com/varunsridharan/css-spinners) Collections of CSS Loading Indicators / Spinners. 
+  
+[css-text-portrait-builder:](https://github.com/WarenGonzaga/css-text-portrait-builder) A popular pure CSS text portrait builder for your loved ones. 🥰 
+  
+[css-toggle-component:](https://github.com/rajasegar/css-toggle-component) Pure CSS Toggle Buttons as a Web component.  
+  
+[css.gg:](https://github.com/astrit/css.gg) 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API.
+ 
+[CSSgram:](https://github.com/una/CSSgram) CSS library for Instagram filters.
+  
+[cssbuttonhovereffects:](https://github.com/dynamicdriverepo/cssbuttonhovereffects) Eye Catching CSS button hover effects using pseudo elements.  
+ 
+[cssco:](https://github.com/laurenwaller/cssco) Photographic filters made with CSS, inspired by VSCO and CSSgram.
+ 
+[cssfx:](https://github.com/jolaleye/cssfx) ✨ Beautifully simple click-to-copy CSS effects.   
+
+[CssGitHubWindows:](https://github.com/Athari/CssGitHubWindows) (UserStyle) GitHub Windows Edition  
+
+[cssgridgenerator:](https://github.com/sdras/cssgridgenerator) 🧮 Generate basic CSS Grid code to make dynamic layouts!
+
+[CSS-Image-Loader:](https://github.com/MarketingPipeline/CSS-Image-Loader) Add a image loader & image load error (without adding an HTML element or using JS).
+
+[csshake:](https://github.com/elrumordelaluz/csshake) CSS classes to move your DOM!
+  
+[csspin:](https://github.com/webkul/csspin) CSS Spinners and Loaders - Modular, Customizable and Single HTML Element Code for Pure CSS Loader and Spinner. 
+   
+[cutestrap:](https://github.com/tylerchilds/cutestrap) A strong, independent CSS Framework. Only 2.7KB minified & gzipped.
+
+  
+
+### D  
+
+[daisyui:](https://github.com/saadeghi/daisyui) The most popular, free and open-source Tailwind CSS component library.
+  
+[DoodleCSS:](https://github.com/chr15m/DoodleCSS) A simple hand drawn HTML/CSS theme.
+  
+[dookie-css:](https://github.com/voronianski/dookie-css) stylus driven css library.  
+  
+[drops:](https://github.com/yegor256/drops) Primitive CSS classes to replace most commonly used CSS styles.
+
+### E
+
+[EDgrid:](https://github.com/escueladigital/EDgrid) CSS/Sass library for responsive layouts | Libreria CSS/Sass para construir layouts responsive.  
+  
+[Effeckt.css:](https://github.com/h5bp/Effeckt.css) A Performant Transitions and Animations Library.
+
+[Element:](https://github.com/ElemeFE/element) A Vue 2.0 based component library for developers, designers and product managers.
+
+[elementary.css:](https://github.com/1j01/elementary.css) Elementary OS's stylesheet converted to browser CSS.
+  
+[emoji-css:](https://github.com/afeld/emoji-css) An easy way to include emoji in your HTML.  
+
+### F
+
+[fictoan:](https://github.com/sujan-s/fictoan) build and style interactive, responsive interfaces with just plain ol’ HTML.  
+
+[Filters.css:](https://github.com/bansal/filters.css) CSS only library to apply color filters.
+  
+[flakes:](https://github.com/kumailht/flakes) is an Admin Template Framework. A combination of CSS Libraries, JavaScript Libraries and Design files that help you build business tools very quickly.  
+  
+[flexboxgrid:](https://github.com/kristoferjoseph/flexboxgrid) Grid based on CSS3 flexbox.  
+  
+[fluidity:](https://github.com/mrmrs/fluidity)  The worlds smallest fully-responsive css framework. 
+  
+[Fomantic-UI:](https://github.com/fomantic/fomantic-ui) Is the official community fork of Semantic-UI.  
+  
+[foundation-sites:](https://github.com/foundation/foundation-sites) The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.  
+  
+[furatto:](https://github.com/IcaliaLabs/furatto) It's a flat, fast and powerful front-end framework for rapid web development.
+
+### G  
+
+[geo-bootstrap:](https://github.com/divshot/geo-bootstrap) A timeless Twitter Bootstrap theme built for the modern web. 
+  
+[gralig:](https://github.com/erenesto/gralig) A modest, grayish CSS library.  
+
+[Gutenberg:](https://github.com/BafS/Gutenberg) Modern framework to print the web correctly.
+  
+### H  
+
+[HTML-Sheets-of-Paper:](https://github.com/delight-im/HTML-Sheets-of-Paper) Word processor in your browser using HTML and CSS (for invoices, legal notices, etc.)  
+
+[hack:](https://github.com/egoist/hack) ⛷ Dead simple CSS framework.
+  
+[Halfmoon:](https://github.com/halfmoonui/halfmoon/) Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.  
+  
+[hamburgers:](https://github.com/jonsuh/hamburgers) Tasty CSS-animated Hamburgers.  
+  
+[HasserCSS:](https://github.com/HeavenMercy/HasserCSS) A lite and flexible CSS framework (Inspired by Skeleton CSS).  
+  
+[hint.css:](https://github.com/chinchang/hint.css) A CSS only tooltip library for your lovely websites.  
+  
+[hiq:](https://github.com/jonathanharrell/hiq) A lightweight, progressive, high-IQ CSS framework.
+  
+[holo-web:](https://github.com/zmyaro/holo-web)  A CSS library that imitates the Android Holo themes.
+
+[Homebrewery:](https://github.com/naturalcrit/homebrewery/blob/master/phb.standalone.css) A CSS stylesheet to create authentic looking D&D homebrews.
+
+[Hover:](https://github.com/IanLunn/Hover) A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+  
+[html5-boilerplate:](https://github.com/h5bp/html5-boilerplate) A professional front-end template for building fast, robust, and adaptable web apps or sites.  
+
+### I
+
+[icono:](https://github.com/saeedalipoor/icono) One tag One icon, no font or svg, Pure CSS.
+  
+[imagehover.css:](https://github.com/ciar4n/imagehover.css) Pure CSS Image Hover Effect Library.
+  
+[instagram.css:](https://github.com/picturepan2/instagram.css) Instagram.css - Complete set of Instagram filters in pure CSS.  
+
+[InterfaCSS:](https://github.com/tolo/InterfaCSS) The CSS-inspired styling and layout framework for iOS.
+    
+[inuitcss:](https://github.com/inuitcss/inuitcss) Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.
+  
+[inviscss:](https://github.com/cmroanirgo/inviscss)  is designed to bring you the core of a good CSS library without the cruft.   
+ 
+[iOS-7-CSS:](https://github.com/hbang/iOS-7-CSS)  Basic iOS 7 CSS. 
+  
+[IsometricSass:](https://github.com/MorganCaron/IsometricSass) Sass library to make isometric 2D without javascript
+
+### J
+
+[Jeet:](https://github.com/mojotech/jeet) The most advanced, yet intuitive, grid system available for Sass or Stylus.
+
+
+### K  
+
+[knopf.css:](https://github.com/frameable/knopf.css) Modern, modular, extensible button system designed for both rapid prototyping and production-ready applications.
+ 
+### L   
+
+[laptop.css:](https://github.com/jjkaufman/laptop.css) laptop CSS for the modern world.
+   
+[leonardo-ui:](https://github.com/qlik-oss/leonardo-ui)  Web UI component library with the Qlik Sense look and feel.
+
+[lilcss:](https://github.com/ColinEspinas/lilcss) 💡 Lightweight CSS framework for everyday use.   
+  
+[lit:](https://github.com/ajusa/lit) World's smallest responsive 🔥 css framework (395 bytes).
+
+[loaders.css:](https://github.com/ConnorAtherton/loaders.css) Delightful, performance-focused pure css loading animations.
+
+[luxa:](https://github.com/luxonauta/luxa) A minimalist CSS framework.
+ 
+### M 
+
+[magic animations:](https://github.com/miniMAC/magic) CSS3 Animations with special effects.  
+
+[markdown-css:](https://github.com/mrcoles/markdown-css) CSS for making regular HTML look like plain-text markdown.  
+ 
+[material:](https://github.com/Tronic247/material) Modern material design framework.  
+  
+[material-components-web:](https://github.com/material-components/material-components-web) Modular and customizable Material Design UI components for the web.  
+
+[Material Design Lite:](https://github.com/google/material-design-lite) Material Design Components in HTML/CSS/JS.  
+
+[Materialize](https://materializecss.com/)
+  
+[math-css:](https://github.com/parsegon/math-css) Easy way to represent math by a few lines of HTML via CSS.  
+
+[mdb-ui-kit:](https://github.com/mdbootstrap/mdb-ui-kit) Bootstrap 5 & Material Design 2.0 UI KIT.
+  
+[Metro 4:](https://github.com/olton/Metro-UI-CSS) Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities every day!  
+  
+[micron:](https://github.com/webkul/micron) a microInteraction library built with CSS Animations and controlled by JavaScript Power  
+  
+[microtip:](https://github.com/ghosh/microtip) 💬 Minimal, accessible, ultra lightweight css tooltip library. Just 1kb.  
+
+[milligram:](https://github.com/milligram/milligram) A minimalist CSS framework.  
+
+[mini.css:](https://github.com/Chalarangelo/mini.css) A minimal, responsive, style-agnostic CSS framework!
+  
+[minireset.css:](https://github.com/jgthms/minireset.css) A tiny modern CSS reset.
+  
+[mobi.css:](https://github.com/mobi-css/mobi.css) A lightweight, scalable, mobile-first CSS framework.
+  
+[modern-css-reset:](https://github.com/hankchizljaw/modern-css-reset) A bare-bones CSS reset for modern web development.
+  
+[modern-normalize:](https://github.com/sindresorhus/modern-normalize) 🐒 Normalize browsers' default style.
+  
+[mono.css:](https://github.com/kokushin/mono.css) Minimal design based on black and white.
+  
+[MoreToggles.css:](https://github.com/JNKKKK/MoreToggles.css) A pure CSS library that provides you with a variety of nice-looking toggles.  
+  
+[motion-ui:](https://github.com/foundation/motion-ui) 💎 The powerful Sass library for creating CSS transitions and animations.  
+  
+[mui:](https://github.com/muicss/mui) A lightweight CSS framework that follows Google's Material Design guidelines.  
+
+[mustard ui:](https://github.com/kylelogue/mustard-ui) A starter CSS framework that actually looks good.  
+
+[MVP.css:](https://github.com/andybrewer/mvp/) Minimalist stylesheet for HTML elements.
+  
+### N  
+
+[Nanasi-CSS:](https://github.com/Nanasi-CSS/Nanasi-CSS) Responsive and pure CSS framework built on Flexbox. 🍍  
+  
+[Natural Selection:](https://github.com/frontaid/natural-selection) A CSS Boilerplate / Starter Kit: Collection of best-practice CSS selectors.  
+  
+[NES.css:](https://github.com/nostalgic-css/NES.css) NES-style CSS Framework | ファミコン風CSSフレームワーク.
+  
+[neumorphia.css:](https://github.com/KennyOliver/neumorphia.css) Modern & neumorphic web elements!  
+  
+[normalize.css:](https://github.com/necolas/normalize.css/) A modern alternative to CSS resets.
+  
+[numl:](https://github.com/numldesign/numl) Atomic UI Framework based on Web Components and Runtime CSS Generation for rapidly building interfaces that follow your Design System 🌈  
+
+### P  
+
+[palm-tree-css-library:](https://github.com/PuzzlerDev/palm-tree-css-library) 🌴 Minimalist. Modern. Simple. 🌴 An open source CSS library.  
+
+[papercss:](https://github.com/papercss/papercss) The Less Formal CSS Framework.
+
+[paper.css:](https://github.com/thesephist/paper.css) Lightweight, modern CSS to add some flair to your web-things 📜
+  
+[patternfly:](https://github.com/patternfly/patternfly) An open source design system built to drive consistency and unify teams.
+  
+[Phonon:](https://github.com/phonon-framework/phonon) A responsive front-end framework with a focus on simplicity and flexibility.  
+  
+[picnic:](https://github.com/franciscop/picnic) A beautiful CSS library to kickstart your projects.
+  
+[pico:](https://github.com/picocss/pico) Minimal CSS Framework for semantic HTML.
+  
+[preboot:](https://github.com/mdo/preboot) A collection of LESS mixins and variables for writing better CSS.  
+  
+[pretty-checkbox:](https://github.com/lokesh-coder/pretty-checkbox) A pure CSS library to beautify checkbox and radio buttons.  
+  
+[primer:](https://github.com/primer/css) The CSS design system that powers GitHub.
+  
+[primitive:](https://github.com/taniarascia/primitive)  ⛏️ ‎ A front-end design toolkit for developing web apps.  
+  
+[Propeller:](https://github.com/digicorp/propeller) Develop more, Code less. A front-end responsive framework based on Google's Material Design Standards & Bootstrap.  
+  
+[PSone.css:](https://github.com/micah5/PSone.css) 🎮 PS1 style CSS Framework, inspired by NES.css
+  
+[Puppertino:](https://github.com/codedgar/Puppertino) A CSS framework based on Human Guidelines from apple.
+  
+[pure:](https://github.com/pure-css/pure/) A set of small, responsive CSS modules that you can use in every web project.  
+  
+[pushy-buttons:](https://github.com/iRaul/pushy-buttons) 👇 CSS Pressable 3D Buttons.
+
+### Q
+[quick:](https://github.com/GuglielmoPepe/quick)  CSS framework for web developers who do not have time. 
+ 
+### R 
+
+[radiobox.css:](https://github.com/720kb/radiobox.css) Tiny set of pure CSS animations for your radio inputs. 
+  
+[Ratchet:](https://github.com/twbs/ratchet) Build mobile apps with simple HTML, CSS, and JavaScript components.
+  
+[repaintless:](https://github.com/szynszyliszys/repaintless) Library for fast CSS Animations.  
+  
+[Responsive:](https://github.com/responsivebp/responsive) A super lightweight HTML, Sass, CSS, and JavaScript framework for building responsive websites.
+  
+[ress:](https://github.com/filipelinhares/ress) 🚿 A modern CSS reset.
+ 
+[retro-css-shell-demo:](https://github.com/andersevenrud/retro-css-shell-demo) AnderShell 3000 - Retro looking terminal in CSS.
+    
+[RPGUI:](https://github.com/RonenNess/RPGUI) Lightweight framework for old-school RPG GUI in web!.  
+
+### S
+
+[sakura:](https://github.com/oxalorg/sakura) A minimal css framework/theme.
+  
+[sanitize.css:](https://github.com/csstools/sanitize.css) A best-practices CSS foundation.  
+  
+[schema:](https://github.com/danmalarkey/schema) A modular, front end framework to easily and quickly help you jumpstart your process in building complex interfaces for the web right out the box.  
+  
+[scss-to-css:](https://github.com/adamlui/scss-to-css) Recursively compile all SCSS files into minified CSS.
+  
+[Semantic-UI:](https://github.com/semantic-org/semantic-ui) a UI component framework based around useful principles from natural language.
+  
+[shorthand:](https://github.com/shorthandcss/shorthand) Utility based css framework built with SCSS.  
+  
+[sierra:](https://github.com/sierra-library/sierra) Sierra SCSS library.
+
+[siimple:](https://github.com/jmjuanes/siimple) The minimal and themeable CSS toolkit for flat and clean designs.  
+  
+[Silon:](https://github.com/SLaks/Silon) Logic Gates and Adders in pure CSS.  
+  
+[simple.css:](https://github.com/kevquirk/simple.css)  Is a classless CSS template that allows you to make a good looking website really quickly.
+  
+[simpsons-in-css:](https://github.com/pattle/simpsons-in-css) Simpsons characters in CSS. 
+  
+[Skeleton:](https://github.com/dhg/Skeleton/) A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development.
+  
+[SkeletonPlaceholder:](https://github.com/ToxicJojo/SkeletonPlaceholder)  A small css library to build skeleton placeholders.
+  
+[Skin:](https://github.com/eBay/skin) Pure CSS framework designed & developed by eBay for a branded, e-commerce marketplace. Created by eBay.
+  
+[slim.js:](https://github.com/slimjs/slim.js) Fast & Robust Front-End Micro-framework based on modern standards.  
+
+[source code pro:](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments  
+  
+[spark:](https://github.com/twistedpixel/spark/) Spark is a lightweight responsive web design framework with multiple styles.  
+  
+[SPCSS:](https://github.com/susam/spcss) A simple, minimal, classless stylesheet for simple HTML pages.  
+  
+[spectre:](https://github.com/picturepan2/spectre) A Lightweight, Responsive and Modern CSS Framework.
+  
+[SpinKit:](https://github.com/tobiasahlin/SpinKit) A collection of loading indicators animated with CSS.
+  
+[starwarsintro:](https://github.com/PolarNotion/starwarsintro) A CSS Library for the Star Wars Intro Crawl.
+  
+[steller-css:](https://github.com/tjhillard/steller-css) ⛰️ A utility-first CSS framework that serves as the foundation of your design system.
+  
+[strawberry:](https://github.com/jfet97/strawberry) A new flexbox based CSS micro-framework.
+
+[style.css:](https://github.com/ungoldman/style.css) Classless stylesheet for HTML documents.  
+  
+[stylestats:](https://github.com/t32k/stylestats) is a library to collect CSS statistics.  
+  
+[susy:](https://github.com/oddbird/susy) Responsive layout toolkit for Sass.  
+  
+[switchery:](https://github.com/abpetkov/switchery) iOS 7 style switches for your checkboxes.
+
+[system.css:](https://github.com/sakofchit/system.css) A design system for building retro Apple interfaces.
+
+### T  
+
+[Tabler:](https://github.com/tabler/tabler) Free and open-source HTML Dashboard UI Kit built on Bootstrap.
+  
+[tachyons:](https://github.com/tachyons-css/tachyons/) Functional css for humans.  
+  
+[tacit:](https://github.com/yegor256/tacit) CSS framework for dummies, without a single CSS class.
+  
+[tailwindcss:](https://github.com/tailwindlabs/tailwindcss) A utility-first CSS framework for rapid UI development.
+  
+[tawian-frontend:](https://github.com/maxbeier/tawian-frontend) A markdowny CSS framework.  
+  
+[tentcss:](https://github.com/sitetent/tentcss) A CSS survival kit. Includes only the essentials to make camp.
+  
+[terminal.css:](https://github.com/Gioni06/terminal.css) Modern and minimalistic CSS framework for terminal enthusiasts.  
+  
+[tootik:](https://github.com/eliortabeka/tootik) A pure CSS/SCSS/LESS Tooltips library. Super easy to use, No JavaScript required.  
+  
+[topcoat:](https://github.com/topcoat/topcoat)  CSS for clean and fast web apps.
+
+[tsuika:](https://github.com/501A-Designs/tsuika)  A classless CSS framework powered with web components to enhance the UI / UX of your next project.
+  
+[transition.css:](https://github.com/argyleink/transition.css) drop-in css transitions.
+  
+[tuesday:](https://github.com/ShakrMedia/tuesday) A quirky CSS Animation Library. 
+  
+[TuiCss:](https://github.com/vinibiavatti1/TuiCss) A text-based user interface CSS library.
+  
+[turretcss:](https://github.com/turretcss/turretcss) A framework for rapid development of responsive and accessible websites.  
+  
+[typebase.css:](https://github.com/devinhunt/typebase.css) A starting point for good typography on the web.    
+  
+[typeset.css:](https://github.com/joshuarudd/typeset.css) a no-nonsense css typography reset for styling user-generated content like blog posts, comments, and forum content.  
+
+### U  
+
+[uikit:](https://github.com/uikit/uikit) A lightweight and modular front-end framework for developing fast and powerful web interfaces.
+  
+[uiterminal:](https://github.com/omerimzali/uiterminal) Terminal Style CSS Framework.  
+  
+[universal.css:](https://github.com/marmelab/universal.css) The only CSS you will ever need.
+  
+[unnamed-css-framework:](https://github.com/smakosh/unnamed-css-framework) A simple colorful CSS framework.  
+  
+[unsemantic:](https://github.com/nathansmith/unsemantic) Fluid grid for mobile, tablet, and desktop.
+
+### V  
+
+[Vanilla:](https://github.com/canonical-web-and-design/vanilla-framework/) A simple, extensible CSS framework.
+  
+[Vital:](https://github.com/doximity/vital) A minimally invasive CSS framework for modern web applications.
+  
+[vivify:](https://github.com/Martz90/vivify) Vivify is free CSS animation library.  
+  
+[vov.css:](https://github.com/vaibhav111tandon/vov.css) 📱💻A CSS Library for small but useful animations💻📱 
+  
+[voxel.css:](https://github.com/HunterLarco/voxel.css) A lightweight 3D CSS voxel library.
+
+### W  
+
+[wallop:](https://github.com/peduarte/wallop) A minimal JS library for showing & hiding things.
+  
+[water.css:](https://github.com/kognise/water.css) A drop-in collection of CSS styles to make simple websites just a little nicer.  
+  
+[windows-95-ui-kit:](https://github.com/themesberg/windows-95-ui-kit) 💾 Windows 95 UI Kit made with Bootstrap 4 components.  
+  
+[wing:](https://github.com/kbrsh/wing) A beautiful CSS framework designed for minimalists.  
+  
+[wired-elements:](https://github.com/rough-stuff/wired-elements) A collection of custom elements that appear hand drawn. Great for wireframes or a fun look.   
+
+[Wireframe:](https://github.com/agauniyal/wireframe) A minimal wireframing css-framework. 🎈
+  
+[Woah.css:](https://github.com/joerez/woah.css) CSS Animation Library for eccentrics.  
+ 
+### X   
+
+[XP.css:](https://github.com/botoxparty/XP.css) A CSS framework for building faithful recreations of operating system GUIs.  
+ 
+### Y   
+
+[yaml:](https://github.com/yamlcss/yaml) YAML (Yet Another Multicolumn Layout) is a modular CSS framework for truly flexible, accessible and responsive websites. It is based on Sass and has a very slim framework core that weights only ~6kB.  
+  
+[youtube-ui:](https://github.com/devforey/youtube-ui) Youtube Like Components.
+
+
+
+
+## Contributing ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-CSS-Resources)
+
+Do you want help improve this list? You can find the Contributing Guidelines [here](https://github.com/MarketingPipeline/Awesome-CSS-Resources/blob/main/.github/CONTRIBUTING.md). If your pull request is approved you will be added to the list of contributors of this awesome project! 
+
+See also the list of
+[contributors](https://github.com/MarketingPipeline/Awesome-CSS-Resources/graphs/contributors) who
+participate in this project.
+
+
+![cover](/cover.png)
+
+![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
+
+Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/alexpate/awesome-design-systems/pulls).
+
+> A design system is a collection of documentation on principles and best practices, that helps guide a team to build digital products. They are often embodied in UI libraries and pattern libraries, but can extend to include guides on other areas such as 'Voice and Tone'.
+
+---
+
+### Tags
+
+- Components: Contains coded patterns and examples.
+- Voice & Tone: Provides guidance on how language should be used.
+- Designers Kit: Includes a Sketch/Photoshop/Figma/etc. file for designers.
+- Source code: Publicly viewable source code
+
+---
+
+|                                                                                    | Components | Voice & Tone | Designers Kit |                                             Source code \*                                             |
+| ---------------------------------------------------------------------------------- | :--------: | :----------: | :-----------: | :----------------------------------------------------------------------------------------------------: |
+| [Aalto University](https://brand.aalto.fi/)                                        |     👍     |      👍      |      👍       |                                                                                                        |
+| [Adobe Spectrum](https://spectrum.adobe.com)                                       |     👍     |      👍      |      👍       |                          [:octocat:](https://github.com/adobe/react-spectrum)                          |
+| [Adjust Atlas](https://atlas.adeven.com)                                           |     👍     |      👍      |      👍       |                                                                                                        |
+| [Alaska Airlines](https://auro.alaskaair.com/)                                     |     👍     |      👍      |      👍       |                             [:octocat:](https://github.com/AlaskaAirlines)                             |
+| [Alibaba Ant Design](https://ant.design)                                           |     👍     |      👍      |      👍       |                         [:octocat:](https://github.com/ant-design/ant-design/)                         |
+| [Amplify UI](https://ui.docs.amplify.aws/)                                         |     👍     |      👍      |      👍       |                        [:octocat:](https://github.com/aws-amplify/amplify-ui/)                         |
+| [Appear Here Styleguide](https://bloom.appearhere.co.uk/)                          |     👍     |              |               |                            [:octocat:](https://github.com/appearhere/bloom)                            |
+| [Apple Developer Design Guidelines](https://developer.apple.com/design/)           |            |              |      👍       |                                                                                                        |
+| [Aragon UI](https://ui.aragon.org/)                                                |     👍     |              |               |                               [:octocat:](https://github.com/aragon/ui)                                |
+| [Artsy Palette](https://palette.artsy.net/)                                        |     👍     |              |               |                             [:octocat:](https://github.com/artsy/palette)                              |
+| [Astro UXDS](https://astrouxds.com/)                                               |     👍     |              |      👍       |                [:octocat:](https://github.com/RocketCommunicationsInc/astro-components)                |
+| [AT UIKIT](https://at-ui.github.io/at-ui/#/en)                                     |     👍     |              |               |                              [:octocat:](https://github.com/at-ui/at-ui)                               |
+| [Atlassian Design System](https://atlassian.design)                                |     👍     |      👍      |      👍       |             [:space_invader:](https://bitbucket.org/atlassian/atlassian-frontend-mirror/)              |
+| [Audi UI Kit](https://www.audi.com/ci/en/guides/user-interface/introduction.html)  |     👍     |              |      👍       |                              [:octocat:](https://github.com/audi/audi-ui)                              |
+| [Aurora (Government of Canada)](https://design.gccollab.ca/)                       |     👍     |      👍      |      👍       |                     [:octocat:](https://github.com/gctools-outilsgc/design-system)                     |
+| [AutoGuru Overdrive](http://overdrive.autoguru.io/)                                |     👍     |              |               |                         [:octocat:](https://github.com/autoguru-au/overdrive)                          |
+| [AWS Cloudscape Design System](https://cloudscape.design/)                         |     👍     |      👍      |      👍       |                      [:octocat:](https://github.com/cloudscape-design/components)                      |
+| [Backpack (Skyscanner)](https://skyscanner.design/)                                |     👍     |      👍      |      👍       |                          [:octocat:](https://github.com/skyscanner/backpack)                           |
+| [Basis Design System](https://basis.now.sh)                                        |     👍     |              |               |                             [:octocat:](https://github.com/moroshko/basis)                             |
+| [BBC GEL (Global Experience Language)](https://www.bbc.co.uk/gel)                  |     👍     |      👍      |      👍       |                                                                                                        |
+| [Bento DS](https://bento-ds.com)                                                   |     👍     |              |      👍       |                       [:octocat:](https://github.com/buildo/bento-design-system)                       |
+| [BLiP](https://design.take.net/)                                                   |     👍     |              |               |                          [:octocat:](https://github.com/takenet/blip-toolkit)                          |
+| [Blueprint](https://blueprintjs.com/)                                              |     👍     |              |      👍       |                           [:octocat:](https://github.com/palantir/blueprint)                           |
+| [Bold (Bridge Design System)](https://bold.bridge.ufsc.br/)                        |     👍     |              |      👍       |                         [:octocat:](https://github.com/laboratoriobridge/bold)                         |
+| [Bolt Design System](https://boltdesignsystem.com/)                                |     👍     |              |               |                         [:octocat:](https://github.com/boltdesignsystem/bolt)                          |
+| [Braid Design System](https://seek-oss.github.io/braid-design-system/)             |     👍     |              |               |                      [:octocat:](https://github.com/seek-oss/braid-design-system)                      |
+| [British Gas Nucleus](https://britishgas.design/)                                  |     👍     |      👍      |               |                                                                                                        |
+| [Buildit Gravity](http://style.buildit.digital/)                                   |     👍     |              |               |                         [:octocat:](https://github.com/buildit/gravity-ui-web)                         |
+| [Bumbag UI](https://bumbag.style/)                                                 |     👍     |              |               |                            [:octocat:](https://github.com/bumbag/bumbag-ui)                            |
+| [BuzzFeed Solid](https://solid.buzzfeed.com/)                                      |     👍     |              |      👍       |                             [:octocat:](https://github.com/buzzfeed/solid)                             |
+| [Buzzvil Design System](https://design.buzzvil.com/)                               |     👍     |      👍      |               |                                                                                                        |
+| [CA Technologies Mineral UI](https://mineral-ui.netlify.app/)                      |     👍     |              |               |                         [:octocat:](https://github.com/mineral-ui/mineral-ui)                          |
+| [CBRE Blocks](https://blocks.cbrebuild.com/)                                       |     👍     |      👍      |               |                                                                                                        |
+| [Cedar](https://rei.github.io/rei-cedar-docs/)                                     |     👍     |              |      👍       |                             [:octocat:](https://github.com/rei/rei-cedar)                              |
+| [Chakra UI](https://chakra-ui.com/)                                                |     👍     |              |               |                          [:octocat:](https://github.com/chakra-ui/chakra-ui)                           |
+| [City of Boston Fleet](https://patterns.boston.gov/)                               |     👍     |      👍      |               |                          [:octocat:](https://github.com/CityOfBoston/digital)                          |
+| [Cloudflare](https://cloudflare.github.io/cf-ui/)                                  |     👍     |              |               |                            [:octocat:](https://github.com/cloudflare/cf-ui)                            |
+| [Co-op Experience Library](https://www.coop.co.uk/experience-library/)             |     👍     |      👍      |      👍       |                     [:octocat:](https://github.com/coopdigital/experience-library)                     |
+| [Contentful Forma 36](https://f36.contentful.com/)                                 |     👍     |      👍      |      👍       |                          [:octocat:](https://github.com/contentful/forma-36)                           |
+| [Decathlon Design System - Vitamin](https://decathlon.design/)                     |     👍     |              |      👍       |                         [:octocat:](https://github.com/decathlon/vitamin-web)                          |
+| [Decentraland UI](https://ui.decentraland.org/)                                    |     👍     |              |               |                            [:octocat:](https://github.com/decentraland/ui)                             |
+| [Duet](https://www.duetds.com)                                                     |     👍     |              |      👍       |                                                                                                        |
+| [Duolingo](https://design.duolingo.com/)                                           |            |      👍      |               |                                                                                                        |
+| [eBay Skin](https://ebay.github.io/skin/)                                          |     👍     |              |               |                               [:octocat:](https://github.com/eBay/skin)                                |
+| [Elastic UI Framework](https://elastic.github.io/eui/)                             |     👍     |      👍      |      👍       |                              [:octocat:](https://github.com/elastic/eui)                               |
+| [ENGIE Fluid Design System](https://www.engie.design)                              |     👍     |              |      👍       |                                                                                                        |
+| [Enel](https://dsyui.enelx.com/)                                                   |     👍     |              |               |                                                                                                        |
+| [Enigma Boundless](https://boundless.js.org/)                                      |     👍     |              |               |                          [:octocat:](https://github.com/enigma-io/boundless)                           |
+| [Estonia Country Design Guidelines](https://brand.estonia.ee)                      |     👍     |      👍      |      👍       |                                                                                                        |
+| [Evergreen](https://evergreen.surge.sh)                                            |     👍     |              |               |                          [:octocat:](https://github.com/segmentio/evergreen)                           |
+| [Financial Times Origami](https://origami.ft.com/)                                 |     👍     |              |               |                        [:octocat:](https://github.com/Financial-Times/origami)                         |
+| [Finland Toolbox](https://toolbox.finland.fi/)                                     |            |      👍      |      👍       |                                                                                                        |
+| [Firefox Photon Design System](https://design.firefox.com/photon)                  |     👍     |      👍      |      👍       |                            [:octocat:](https://github.com/FirefoxUX/photon)                            |
+| [Flowbite Design System](https://www.figma.com/community/file/1179442320711977498) |     👍     |              |      👍       |                          [:octocat:](https://github.com/themesberg/flowbite)                           |
+| [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)                      |     👍     |      👍      |      👍       |                           [:octocat:](https://github.com/microsoft/fluentui)                           |
+| [Foundation](https://get.foundation/)                                              |     👍     |      👍      |      👍       |                      [:octocat:](https://github.com/foundation/foundation-sites)                       |
+| [Foyer Design System](https://design.foyer.lu/)                                    |     👍     |              |      👍       |                                         :closed_lock_with_key:                                         |
+| [French Government Design System](https://www.systeme-de-design.gouv.fr/)          |     👍     |      👍      |      👍       |                          [:octocat:](https://github.com/GouvernementFR/dsfr)                           |
+| [FutureLearn Pattern Library](https://www.futurelearn.com/pattern-library)         |     👍     |              |               |                                                                                                        |
+| [GitHub Primer](https://primer.style/)                                             |     👍     |              |      👍       |                                [:octocat:](https://github.com/primer/)                                 |
+| [GitLab Design System - Pajamas](https://design.gitlab.com/)                       |     👍     |      👍      |      👍       |                     [:fox_face:](https://gitlab.com/gitlab-org/design.gitlab.com)                      |
+| [GoodBarber Design System](https://www.goodbarber.com/uxdesign/)                   |     👍     |              |               |                                                                                                        |
+| [Google Material Design](https://material.io/guidelines/#introduction-goals)       |     👍     |      👍      |      👍       |                [:octocat:](https://github.com/material-components/material-components)                 |
+| [GOV.UK Design System](https://www.gov.uk/design-system)                           |     👍     |              |               |                      [:octocat:](https://github.com/alphagov/govuk-design-system)                      |
+| [Gympass Yoga](https://gympass.github.io/yoga/)                                    |     👍     |      👍      |               |                              [:octocat:](https://github.com/gympass/yoga)                              |
+| [HashiCorp Helios](https://helios.hashicorp.design)                                |     👍     |      👍      |      👍       |                        [:octocat:](https://github.com/hashicorp/design-system)                         |
+| [Help Scout](https://style.helpscout.com/)                                         |     👍     |      👍      |               |                        [:octocat:](https://github.com/helpscout/seed-framework)                        |
+| [Heroku Purple3](https://design.herokai.com/)                                      |     👍     |              |               |                                                                                                        |
+| [Hewlett Packard grommet](https://grommet.github.io)                               |     👍     |              |               |                            [:octocat:](https://github.com/grommet/grommet)                             |
+| [HubSpot Canvas](https://canvas.hubspot.com/)                                      |     👍     |      👍      |               |                             [:octocat:](https://github.com/HubSpot/canvas)                             |
+| [Hudl Design System](https://uniform.hudl.com/)                                    |     👍     |      👍      |               |                                                                                                        |
+| [IBM Carbon](https://www.carbondesignsystem.com/)                                  |     👍     |      👍      |      👍       |                         [:octocat:](https://github.com/ibm/carbon-components)                          |
+| [IBM Design Language](https://www.ibm.com/design/language/)                        |     👍     |      👍      |               |                                                                                                        |
+| [IBM Northstar](https://www.ibm.com/standards/web/)                                |     👍     |      👍      |               |                                                                                                        |
+| [Intuit Harmony](https://designsystem.quickbooks.com/)                             |     👍     |      👍      |      👍       |                                                                                                        |
+| [Italia Design System](https://designers.italia.it/design-system/)                 |     👍     |      👍      |      👍       |                                 [:octocat:](https://github.com/italia)                                 |
+| [JB Design System](https://javadbat.github.io/design-system)                       |     👍     |      👍      |               |                         [:octocat:](https://javadbat.github.io/design-system)                          |
+| [JetBrains Ring UI](https://jetbrains.github.io/ring-ui)                           |     👍     |              |               |                           [:octocat:](https://github.com/JetBrains/ring-ui)                            |
+| [Jobber](https://atlantis.getjobber.com) (🔱 Atlantis)                             |     👍     |              |               |                           [:octocat:](https://github.com/GetJobber/atlantis)                           |
+| [Just Eat Takeaway.com PIE Design System](https://pie.design/)                     |     👍     |              |      👍       |                          [:octocat:](https://github.com/justeattakeaway/pie)                           |
+| [Kaizen](https://cultureamp.design/)                                               |     👍     |      👍      |               |                    [:octocat:](https://github.com/cultureamp/kaizen-design-system)                     |
+| [KoliBri](https://public-ui.github.io/) (Public-UI)                                |     👍     |              |               |                           [:octocat:](https://github.com/public-ui/kolibri/)                           |
+| [Kontur](https://guides.kontur.ru/)                                                |     👍     |              |      👍       |                          [:octocat:](https://github.com/skbkontur/retail-ui/)                          |
+| [Korea Design System](https://www.krds.go.kr)                                      |     👍     |      👍      |      👍       |                          [:octocat:](https://github.com/KRDS-uiux/krds-uiux)                           |
+| [Lexicon](https://lexicondesign.io/)                                               |     👍     |      👍      |               |                                                                                                        |
+| [Louder Than Ten Manual](https://www.louderthanten.com/manual)                     |     👍     |      👍      |               |                                                                                                        |
+| [Mail.ru Group Paradigm](https://design.mail.ru/)                                  |     👍     |      👍      |      👍       |                                                                                                        |
+| [Mailchimp Content Styleguide](https://styleguide.mailchimp.com/)                  |            |      👍      |               |                                                                                                        |
+| [Mantine](https://mantine.dev/)                                                    |     👍     |              |               |                           [:octocat:](https://github.com/mantinedev/mantine)                           |
+| [Marvel Styleguide](https://marvelapp.com/styleguide)                              |     👍     |              |               |                                                                                                        |
+| [Material Minimal](https://material-minimal.com/)                                  |     👍     |      👍      |      👍       |                         [:octocat:](https://github.com/mdbootstrap/mdb-ui-kit)                         |
+| [Materialize CSS](https://materializecss.com/)                                     |     👍     |              |      👍       |                          [:octocat:](https://github.com/Dogfalo/materialize)                           |
+| [Mesh Design System](https://www.meshdesignsystem.com/)                            |     👍     |              |      👍       |                                                                                                        |
+| [Microsoft Fluent](https://www.microsoft.com/design/fluent/)                       |     👍     |              |      👍       |                           [:octocat:](https://github.com/microsoft/fluentui)                           |
+| [Mixpanel Design System](https://design.mixpanel.com)                              |     👍     |      👍      |               |                                                                                                        |
+| [MongoDB Design System](http://mongodb.design)                                     |     👍     |              |      👍       |                             [:octocat:](https://github.com/mongodb/design)                             |
+| [Monzo Tone of Voice](https://monzo.com/tone-of-voice/)                            |            |      👍      |               |                                                                                                        |
+| [Morningstar Design System](http://designsystem.morningstar.com/)                  |     👍     |      👍      |      👍       |                                                                                                        |
+| [Mozilla Protocol](https://protocol.mozilla.org/)                                  |     👍     |              |               |                            [:octocat:](https://github.com/mozilla/protocol)                            |
+| [NASA Web Design System](https://nasa.github.io/nasawds-site/)                     |     👍     |              |               |                              [:octocat:](https://github.com/nasa/nasawds)                              |
+| [NationBuilder Radius](https://www.nationbuilder.design/)                          |     👍     |              |               |                                                                                                        |
+| [NHS.UK Service Manual](https://service-manual.nhs.uk/)                            |     👍     |      👍      |               |                                                                                                        |
+| [Nordhealth](https://nordhealth.design/)                                           |     👍     |              |      👍       |                                                                                                        |
+| [New York State Design System](https://designsystem.ny.gov/components/)            |     👍     |              |      👍       |                             [:octocat:](https://github.com/ITS-HCD/nysds)                              |
+| [Nordnet](https://brand.nordnet.se/)                                               |     👍     |      👍      |               |                                                                                                        |
+| [Okta Odyssey Design System](https://odyssey.okta.design)                          |     👍     |              |      👍       |                              [:octocat:](https://github.com/okta/odyssey)                              |
+| [Ontario Design System](https://designsystem.ontario.ca/)                          |     👍     |              |      👍       | [:globe_with_meridians:](https://designsystem.ontario.ca/docs/documentation/release-notes.html#latest) |
+| [Oracle Redwood](https://redwood.oracle.com)                                       |     👍     |              |      👍       |                                                                                                        |
+| [Persona Design System](https://privy-open-source.github.io/design-system/)        |     👍     |      👍      |               |                    [:octocat:](https://github.com/privy-open-source/design-system)                     |
+| [Pharos: JSTOR's Design System](https://pharos.jstor.org)                          |     👍     |      👍      |               |                             [:octocat:](https://github.com/ithaka/pharos)                              |
+| [Pinterest Gestalt](https://pinterest.github.io/gestalt/#/)                        |     👍     |              |               |                           [:octocat:](https://github.com/pinterest/gestalt)                            |
+| [Pivotal](https://styleguide.pivotal.io/)                                          |     👍     |              |               |                         [:octocat:](https://github.com/pivotal-cf/pivotal-ui)                          |
+| [Pluralsight Design System](https://design-system.pluralsight.com/)                |     👍     |              |               |                       [:octocat:](https://github.com/pluralsight/design-system)                        |
+| [Porsche Design System](https://designsystem.porsche.com)                          |     👍     |              |      👍       |              [:octocat:](https://github.com/porsche-design-system/porsche-design-system)               |
+| [Priceline Design System](https://priceline.github.io/design-system/)              |     👍     |      👍      |               |                        [:octocat:](https://github.com/priceline/design-system)                         |
+| [Pusher Chameleon](https://pusher.github.io/chameleon/)                            |     👍     |              |               |                            [:octocat:](https://github.com/pusher/chameleon)                            |
+| [Radix](https://www.radix-ui.com/)                                                 |     👍     |              |               |                                [:octocat:](https://github.com/radix-ui)                                |
+| [Rambler](https://rambler-digital-solutions.github.io/rambler-ui/)                 |     👍     |              |               |                  [:octocat:](https://github.com/rambler-digital-solutions/rambler-ui)                  |
+| [Rendition](https://balena-io-modules.github.io/rendition/)                        |     👍     |              |               |                      [:octocat:](https://github.com/balena-io-modules/rendition/)                      |
+| [Reshaped](https://reshaped.so)                                                    |     👍     |              |      👍       |                                                                                                        |
+| [Salesforce Lightning Design System](https://www.lightningdesignsystem.com)        |     👍     |      👍      |      👍       |                      [:octocat:](https://github.com/salesforce-ux/design-system)                       |
+| [Sage by Kajabi](https://sage.kajabi.com)                                          |     👍     |              |               |                            [:octocat:](https://github.com/Kajabi/sage-lib)                             |
+| [SAP Fiori](https://experience.sap.com/fiori-design/)                              |     👍     |              |               |                                                                                                        |
+| [SAP Fundamental](https://github.com/SAP/fundamental)                              |     👍     |              |               |                            [:octocat:](https://github.com/SAP/fundamental)                             |
+| [SAP OpenUI](https://github.com/SAP/openui5)                                       |     👍     |              |               |                              [:octocat:](https://github.com/SAP/openui5)                               |
+| [Scania Digital Design System](https://digitaldesign.scania.com/home)              |     👍     |              |      👍       |                   [:octocat:](https://github.com/scania-digital-design-system/sdds)                    |
+| [Seeds](https://sproutsocial.com/seeds)                                            |     👍     |      👍      |      👍       |                                                                                                        |
+| [SEEK Style Guide](https://seek-oss.github.io/seek-style-guide/)                   |     👍     |              |               |                       [:octocat:](https://github.com/seek-oss/seek-style-guide)                        |
+| [Semi Design](https://semi.design/en-US)                                           |     👍     |              |      👍       |                          [:octocat:](https://github.com/DouyinFE/semi-design)                          |
+| [Semrush Intergalactic Design System](https://i.semrush.com/)                      |     👍     |              |      👍       |                         [:octocat:](https://github.com/semrush/intergalactic)                          |
+| [Shoelace](https://shoelace.style)                                                 |     👍     |      👍      |               |                        [:octocat:](https://github.com/shoelace-style/shoelace)                         |
+| [Shopify Polaris](https://polaris.shopify.com)                                     |     👍     |      👍      |      👍       |                            [:octocat:](https://github.com/Shopify/polaris)                             |
+| [Shadcn/ui](https://ui.shadcn.com/)                                                |     👍     |              |               |                               [:octocat:](https://github.com/shadcn-ui)                                |
+| [Siemens iX](https://ix.siemens.io/)                                               |     👍     |      👍      |      👍       |                               [:octocat:](https://github.com/siemens/ix)                               |
+| [Singapore Government Design System](https://www.designsystem.tech.gov.sg/)        |     👍     |      👍      |      👍       |                             [:octocat:](https://github.com/govtechsg/sgds)                             |
+| [Stacks – Stack Overflow](https://stackoverflow.design/)                           |     👍     |      👍      |               |                          [:octocat:](https://github.com/StackExchange/Stacks)                          |
+| [Starbucks Style Guide](https://creative.starbucks.com)                            |     👍     |      👍      |               |                                                                                                        |
+| [Strapi Design System](https://design-system.strapi.io/)                           |     👍     |              |               |                          [:octocat:](https://github.com/strapi/design-system)                          |
+| [Teambition Clarity Design](https://design.teambition.com/)                        |     👍     |              |               |                                                                                                        |
+| [Telefónica Mística](https://brandfactory.telefonica.com/mistica)                  |     👍     |              |      👍       |                           [:octocat:](https://github.com/Telefonica/mistica)                           |
+| [Thumbprint](https://thumbprint.design/)                                           |     👍     |              |               |                          [:octocat:](https://github.com/thumbtack/thumbprint)                          |
+| [Tizen CircularUI](https://developer.samsung.com/one-ui-watch-tizen)               |     👍     |              |      👍       |                        [:octocat:](https://github.com/Samsung/Tizen.CircularUI)                        |
+| [Twilio Paste](https://paste.twilio.design/)                                       |     👍     |      👍      |      👍       |                           [:octocat:](https://github.com/twilio-labs/paste)                            |
+| [Uber's Base Web](https://baseweb.design/)                                         |     👍     |              |               |                            [:octocat:](https://github.com/uber-web/baseui)                             |
+| [Ubuntu Vanilla framework](https://vanillaframework.io/)                           |     👍     |      👍      |      👍       |               [:octocat:](https://github.com/canonical-web-and-design/vanilla-framework)               |
+| [Uiverse](https://uiverse.io)                                                      |     👍     |      👍      |      👍       |                           [:octocat:](https://github.com/uiverse-io/galaxy)                            |
+| [Untitled UI](https://www.untitledui.com/react/)                                   |     👍     |              |      👍       |                          [:octocat:](https://github.com/untitleduico/react/)                           |
+| [uSwitch style guide](https://ustyle.guide/)                                       |     👍     |      👍      |               |                             [:octocat:](https://github.com/uswitch/ustyle)                             |
+| [U.S. Web Design Standards](https://designsystem.digital.gov/)                     |     👍     |      👍      |      👍       |                              [:octocat:](https://github.com/uswds/uswds)                               |
+| [U.S. CMS.gov Design System](https://design.cms.gov/)                              |     👍     |              |               |                                                                                                        |
+| [Vibe](https://style.monday.com/)                                                  |     👍     |              |      👍       |                             [:octocat:](https://github.com/mondaycom/vibe)                             |
+| [Vimeo Design System](https://vimeo.github.io/iris/)                               |     👍     |              |               |                               [:octocat:](https://github.com/vimeo/iris)                               |
+| [VMware Clarity Design System](https://clarity.design/)                            |     👍     |      👍      |      👍       |                             [:octocat:](https://github.com/vmware/clarity)                             |
+| [VTEX Styleguide](https://styleguide.vtex.com/)                                    |     👍     |              |      👍       |                            [:octocat:](https://github.com/vtex/styleguide)                             |
+| [Vue Design System](https://vueds.com/)                                            |     👍     |              |               |                       [:octocat:](https://github.com/viljamis/vue-design-system)                       |
+| [Ray by WeWork](https://ray.wework.com)                                            |     👍     |              |               |                               [:octocat:](https://github.com/wework/ray)                               |
+| [Welcome UI](http://www.welcome-ui.com/)                                           |     👍     |              |               |                            [:octocat:](https://github.com/WTTJ/welcome-ui)                             |
+| [West Midlands Network Design System](https://designsystem.wmnetwork.co.uk/)       |     👍     |      👍      |               |                     [:octocat:](https://github.com/wmcadigital/wmn-design-system)                      |
+| [Wix Style React](https://www.wix-style-react.com/storybook/)                      |     👍     |              |               |                                                                                                        |
+| [Vercel](https://vercel.com/geist)                                                 |     👍     |              |               |                                                                                                        |
+| [Workday Canvas](https://design.workday.com/)                                      |     👍     |      👍      |               |                           [:octocat:](https://github.com/Workday/canvas-kit)                           |
+| [Yelp Styleguide](https://www.yelp.com/styleguide)                                 |     👍     |      👍      |               |                                                                                                        |
+| [Zendesk Garden](https://garden.zendesk.com/)                                      |     👍     |              |               |                             [:octocat:](https://github.com/zendeskgarden)                              |
+
+### Notes
+
+\*_Projects marked as open source may not always be open to use. Always check the license of these projects before using them._
+
+Although 'design systems', 'ui libraries', and 'pattern libraries' are different things, they are often used interchangeably. This list contains all three.
+
+### Credits
+
+Cover icon: 'Solar System' by Andrejs Kirma from the Noun Project
+
+<p align="center">
+  <a href="https://tailwindcss.com" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg">
+      <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="350" height="70" style="max-width: 100%;">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  A utility-first CSS framework for rapidly building custom user interfaces.
+</p>
+
+<p align="center">
+    <a href="https://github.com/tailwindlabs/tailwindcss/actions"><img src="https://img.shields.io/github/actions/workflow/status/tailwindlabs/tailwindcss/ci.yml?branch=main" alt="Build Status"></a>
+    <a href="https://www.npmjs.com/package/tailwindcss"><img src="https://img.shields.io/npm/dt/tailwindcss.svg" alt="Total Downloads"></a>
+    <a href="https://github.com/tailwindlabs/tailwindcss/releases"><img src="https://img.shields.io/npm/v/tailwindcss.svg" alt="Latest Release"></a>
+    <a href="https://github.com/tailwindlabs/tailwindcss/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/tailwindcss.svg" alt="License"></a>
+</p>
+
+---
+
+## Documentation
+
+For full documentation, visit [tailwindcss.com](https://tailwindcss.com).
+
+## Community
+
+For help, discussion about best practices, or feature ideas:
+
+[Discuss Tailwind CSS on GitHub](https://github.com/tailwindlabs/tailwindcss/discussions)
+
+## Contributing
+
+If you're interested in contributing to Tailwind CSS, please read our [contributing docs](https://github.com/tailwindlabs/tailwindcss/blob/main/.github/CONTRIBUTING.md) **before submitting a pull request**.
+
+<p align="center">
+  <a href="https://getbootstrap.com/">
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
+  </a>
+</p>
+
+<h3 align="center">Bootstrap</h3>
+
+<p align="center">
+  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  <br>
+  <a href="https://getbootstrap.com/docs/5.3/"><strong>Explore Bootstrap docs »</strong></a>
+  <br>
+  <br>
+  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">Report bug</a>
+  ·
+  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">Request feature</a>
+  ·
+  <a href="https://blog.getbootstrap.com/">Blog</a>
+</p>
+
+
+## Bootstrap 5
+
+Our default branch is for development of our Bootstrap 5 release. Head to the [`v4-dev` branch](https://github.com/twbs/bootstrap/tree/v4-dev) to view the readme, documentation, and source code for Bootstrap 4.
+
+
+## Table of contents
+
+- [Quick start](#quick-start)
+- [Status](#status)
+- [What’s included](#whats-included)
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Documentation](#documentation)
+- [Contributing](#contributing)
+- [Community](#community)
+- [Versioning](#versioning)
+- [Creators](#creators)
+- [Thanks](#thanks)
+- [Copyright and license](#copyright-and-license)
+
+
+## Quick start
+
+Several quick start options are available:
+
+- [Download the latest release](https://github.com/twbs/bootstrap/archive/v5.3.8.zip)
+- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
+- Install with [npm](https://www.npmjs.com/): `npm install bootstrap@v5.3.8`
+- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap@v5.3.8`
+- Install with [Bun](https://bun.sh/): `bun add bootstrap@v5.3.8`
+- Install with [Composer](https://getcomposer.org/): `composer require twbs/bootstrap:5.3.8`
+- Install with [NuGet](https://www.nuget.org/): CSS: `Install-Package bootstrap` Sass: `Install-Package bootstrap.sass`
+
+Read the [Getting started page](https://getbootstrap.com/docs/5.3/getting-started/introduction/) for information on the framework contents, templates, examples, and more.
+
+
+## Status
+
+[![Build Status](https://img.shields.io/github/actions/workflow/status/twbs/bootstrap/js.yml?branch=main&label=JS%20Tests&logo=github)](https://github.com/twbs/bootstrap/actions/workflows/js.yml?query=workflow%3AJS+branch%3Amain)
+[![npm version](https://img.shields.io/npm/v/bootstrap?logo=npm&logoColor=fff)](https://www.npmjs.com/package/bootstrap)
+[![Gem version](https://img.shields.io/gem/v/bootstrap?logo=rubygems&logoColor=fff)](https://rubygems.org/gems/bootstrap)
+[![Meteor Atmosphere](https://img.shields.io/badge/meteor-twbs%3Abootstrap-blue?logo=meteor&logoColor=fff)](https://atmospherejs.com/twbs/bootstrap)
+[![Packagist Prerelease](https://img.shields.io/packagist/vpre/twbs/bootstrap?logo=packagist&logoColor=fff)](https://packagist.org/packages/twbs/bootstrap)
+[![NuGet](https://img.shields.io/nuget/vpre/bootstrap?logo=nuget&logoColor=fff)](https://www.nuget.org/packages/bootstrap/absoluteLatest)
+[![Coverage Status](https://img.shields.io/coveralls/github/twbs/bootstrap/main?logo=coveralls&logoColor=fff)](https://coveralls.io/github/twbs/bootstrap?branch=main)
+[![CSS gzip size](https://img.badgesize.io/twbs/bootstrap/main/dist/css/bootstrap.min.css?compression=gzip&label=CSS%20gzip%20size)](https://github.com/twbs/bootstrap/blob/main/dist/css/bootstrap.min.css)
+[![CSS Brotli size](https://img.badgesize.io/twbs/bootstrap/main/dist/css/bootstrap.min.css?compression=brotli&label=CSS%20Brotli%20size)](https://github.com/twbs/bootstrap/blob/main/dist/css/bootstrap.min.css)
+[![JS gzip size](https://img.badgesize.io/twbs/bootstrap/main/dist/js/bootstrap.min.js?compression=gzip&label=JS%20gzip%20size)](https://github.com/twbs/bootstrap/blob/main/dist/js/bootstrap.min.js)
+[![JS Brotli size](https://img.badgesize.io/twbs/bootstrap/main/dist/js/bootstrap.min.js?compression=brotli&label=JS%20Brotli%20size)](https://github.com/twbs/bootstrap/blob/main/dist/js/bootstrap.min.js)
+![Open Source Security Foundation Scorecard](https://img.shields.io/ossf-scorecard/github.com/twbs/bootstrap)
+[![Backers on Open Collective](https://img.shields.io/opencollective/backers/bootstrap?logo=opencollective&logoColor=fff)](#backers)
+[![Sponsors on Open Collective](https://img.shields.io/opencollective/sponsors/bootstrap?logo=opencollective&logoColor=fff)](#sponsors)
+
+
+## What’s included
+
+Within the download you’ll find the following directories and files, logically grouping common assets and providing both compiled and minified variations.
+
+<details>
+  <summary>Download contents</summary>
+
+  ```text
+  bootstrap/
+  ├── css/
+  │   ├── bootstrap-grid.css
+  │   ├── bootstrap-grid.css.map
+  │   ├── bootstrap-grid.min.css
+  │   ├── bootstrap-grid.min.css.map
+  │   ├── bootstrap-grid.rtl.css
+  │   ├── bootstrap-grid.rtl.css.map
+  │   ├── bootstrap-grid.rtl.min.css
+  │   ├── bootstrap-grid.rtl.min.css.map
+  │   ├── bootstrap-reboot.css
+  │   ├── bootstrap-reboot.css.map
+  │   ├── bootstrap-reboot.min.css
+  │   ├── bootstrap-reboot.min.css.map
+  │   ├── bootstrap-reboot.rtl.css
+  │   ├── bootstrap-reboot.rtl.css.map
+  │   ├── bootstrap-reboot.rtl.min.css
+  │   ├── bootstrap-reboot.rtl.min.css.map
+  │   ├── bootstrap-utilities.css
+  │   ├── bootstrap-utilities.css.map
+  │   ├── bootstrap-utilities.min.css
+  │   ├── bootstrap-utilities.min.css.map
+  │   ├── bootstrap-utilities.rtl.css
+  │   ├── bootstrap-utilities.rtl.css.map
+  │   ├── bootstrap-utilities.rtl.min.css
+  │   ├── bootstrap-utilities.rtl.min.css.map
+  │   ├── bootstrap.css
+  │   ├── bootstrap.css.map
+  │   ├── bootstrap.min.css
+  │   ├── bootstrap.min.css.map
+  │   ├── bootstrap.rtl.css
+  │   ├── bootstrap.rtl.css.map
+  │   ├── bootstrap.rtl.min.css
+  │   └── bootstrap.rtl.min.css.map
+  └── js/
+      ├── bootstrap.bundle.js
+      ├── bootstrap.bundle.js.map
+      ├── bootstrap.bundle.min.js
+      ├── bootstrap.bundle.min.js.map
+      ├── bootstrap.esm.js
+      ├── bootstrap.esm.js.map
+      ├── bootstrap.esm.min.js
+      ├── bootstrap.esm.min.js.map
+      ├── bootstrap.js
+      ├── bootstrap.js.map
+      ├── bootstrap.min.js
+      └── bootstrap.min.js.map
+  ```
+</details>
+
+We provide compiled CSS and JS (`bootstrap.*`), as well as compiled and minified CSS and JS (`bootstrap.min.*`). [Source maps](https://web.dev/articles/source-maps) (`bootstrap.*.map`) are available for use with certain browsers’ developer tools. Bundled JS files (`bootstrap.bundle.js` and minified `bootstrap.bundle.min.js`) include [Popper](https://github.com/floating-ui/popper-docs/blob/main/docs/v2/index.md).
+
+
+## Bugs and feature requests
+
+Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/twbs/bootstrap/blob/main/.github/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/twbs/bootstrap/issues/new/choose).
+
+
+## Documentation
+
+Bootstrap’s documentation, included in this repo in the root directory, is built with [Astro](https://astro.build/) and publicly hosted on GitHub Pages at <https://getbootstrap.com/>. The docs may also be run locally.
+
+Documentation search is powered by [Algolia's DocSearch](https://docsearch.algolia.com/).
+
+### Running documentation locally
+
+1. Run `npm install` to install the Node.js dependencies, including Astro (the site builder).
+2. Run `npm run test` (or a specific npm script) to rebuild distributed CSS and JavaScript files, as well as our docs assets.
+3. From the root `/bootstrap` directory, run `npm run docs-serve` in the command line.
+4. Open <http://localhost:9001> in your browser, and voilà.
+
+Learn more about using Astro by reading its [documentation](https://docs.astro.build/en/getting-started/).
+
+### Documentation for previous releases
+
+You can find all our previous releases docs on <https://getbootstrap.com/docs/versions/>.
+
+[Previous releases](https://github.com/twbs/bootstrap/releases) and their documentation are also available for download.
+
+
+## Contributing
+
+Please read through our [contributing guidelines](https://github.com/twbs/bootstrap/blob/main/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+
+Moreover, if your pull request contains JavaScript patches or features, you must include [relevant unit tests](https://github.com/twbs/bootstrap/tree/main/js/tests). All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Mark Otto](https://github.com/mdo).
+
+Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/main/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
+
+
+## Community
+
+Get updates on Bootstrap’s development and chat with the project maintainers and community members.
+
+- Follow [@getbootstrap on X](https://x.com/getbootstrap).
+- Read and subscribe to [The Official Bootstrap Blog](https://blog.getbootstrap.com/).
+- Ask questions and explore [our GitHub Discussions](https://github.com/twbs/bootstrap/discussions).
+- Discuss, ask questions, and more on [the community Discord](https://discord.gg/bZUvakRU3M) or [Bootstrap subreddit](https://www.reddit.com/r/bootstrap/).
+- Chat with fellow Bootstrappers in IRC. On the `irc.libera.chat` server, in the `#bootstrap` channel.
+- Implementation help may be found at Stack Overflow (tagged [`bootstrap-5`](https://stackoverflow.com/questions/tagged/bootstrap-5)).
+- Developers should use the keyword `bootstrap` on packages which modify or add to the functionality of Bootstrap when distributing through [npm](https://www.npmjs.com/browse/keyword/bootstrap) or similar delivery mechanisms for maximum discoverability.
+
+
+## Versioning
+
+For transparency into our release cycle and in striving to maintain backward compatibility, Bootstrap is maintained under [the Semantic Versioning guidelines](https://semver.org/). Sometimes we screw up, but we adhere to those rules whenever possible.
+
+See [the Releases section of our GitHub project](https://github.com/twbs/bootstrap/releases) for changelogs for each release version of Bootstrap. Release announcement posts on [the official Bootstrap blog](https://blog.getbootstrap.com/) contain summaries of the most noteworthy changes made in each release.
+
+
+## Creators
+
+**Mark Otto**
+
+- <https://x.com/mdo>
+- <https://github.com/mdo>
+
+**Jacob Thornton**
+
+- <https://x.com/fat>
+- <https://github.com/fat>
+
+
+## Thanks
+
+<a href="https://www.browserstack.com/">
+  <img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" alt="BrowserStack" width="192" height="42">
+</a>
+
+Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to test in real browsers!
+
+<a href="https://www.netlify.com/">
+  <img src="https://www.netlify.com/v3/img/components/full-logo-light.svg" alt="Netlify" width="147" height="40">
+</a>
+
+Thanks to [Netlify](https://www.netlify.com/) for providing us with Deploy Previews!
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/bootstrap#sponsor)]
+
+[![OC sponsor 0](https://opencollective.com/bootstrap/sponsor/0/avatar.svg)](https://opencollective.com/bootstrap/sponsor/0/website)
+[![OC sponsor 1](https://opencollective.com/bootstrap/sponsor/1/avatar.svg)](https://opencollective.com/bootstrap/sponsor/1/website)
+[![OC sponsor 2](https://opencollective.com/bootstrap/sponsor/2/avatar.svg)](https://opencollective.com/bootstrap/sponsor/2/website)
+[![OC sponsor 3](https://opencollective.com/bootstrap/sponsor/3/avatar.svg)](https://opencollective.com/bootstrap/sponsor/3/website)
+[![OC sponsor 4](https://opencollective.com/bootstrap/sponsor/4/avatar.svg)](https://opencollective.com/bootstrap/sponsor/4/website)
+[![OC sponsor 5](https://opencollective.com/bootstrap/sponsor/5/avatar.svg)](https://opencollective.com/bootstrap/sponsor/5/website)
+[![OC sponsor 6](https://opencollective.com/bootstrap/sponsor/6/avatar.svg)](https://opencollective.com/bootstrap/sponsor/6/website)
+[![OC sponsor 7](https://opencollective.com/bootstrap/sponsor/7/avatar.svg)](https://opencollective.com/bootstrap/sponsor/7/website)
+[![OC sponsor 8](https://opencollective.com/bootstrap/sponsor/8/avatar.svg)](https://opencollective.com/bootstrap/sponsor/8/website)
+[![OC sponsor 9](https://opencollective.com/bootstrap/sponsor/9/avatar.svg)](https://opencollective.com/bootstrap/sponsor/9/website)
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/bootstrap#backer)]
+
+[![Backers](https://opencollective.com/bootstrap/backers.svg?width=890)](https://opencollective.com/bootstrap#backers)
+
+
+## Copyright and license
+
+Code and documentation copyright 2011-2026 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors). Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+
+<h1><img src="https://img.fortawesome.com/349cfdf6/fa-free-logo.svg" alt="Font Awesome Free" width="50%"></h1>
+
+> Version 6
+
+Font Awesome is the Internet's icon library and toolkit, used by millions of
+designers, developers, and content creators.
+
+## Documentation
+
+Learn how to get started with Font Awesome and then dive deeper into other advanced topics:
+
+[Docs for version 6](https://fontawesome.com/docs)
+
+### Where did Font Awesome 5, 4 (or 3) go?
+
+Now that Font Awesome 6 has been released we are marking version 5 as Long Term
+Support (LTS). Version 5 will get critical bug fixes only. Version 3 and 4 are
+now end-of-life and we don't plan on releasing any further versions of the 4.x
+or 3.x.
+
+You can see a complete list of versions on [our Versions
+page](https://fontawesome.com/versions).
+
+## Change log
+
+The change log for releases is now [available directly on our site](https://fontawesome.com/docs/changelog/).
+
+Looking for older versions of Font Awesome? Check the [releases](https://github.com/FortAwesome/Font-Awesome/releases).
+
+## Upgrading
+
+From time-to-time we'll have special upgrading instructions from one version to the next.
+
+- [Web upgrading guide](https://fontawesome.com/docs/web/setup/upgrade/)
+- [Desktop upgrading guide](https://fontawesome.com/docs/desktop/setup/upgrade/)
+
+## Code of conduct
+
+We will behave ourselves if you behave yourselves. For more details see our
+[CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
+
+## Contributing
+
+Please read through our [contributing guidelines](./CONTRIBUTING.md).  Included
+are directions for opening issues.
+
+## Versioning
+
+Font Awesome will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered
+with the following format:
+
+`<major>.<minor>.<patch>`
+
+For more information on SemVer, please visit https://semver.org.
+
+**The major version "6" is part of an umbrella release.  It includes many different types of files and technologies. Therefore
+we deviate from normal SemVer in the following ways:**
+
+* Any release may update the design, look-and-feel, or branding of an existing
+  icon
+* We will never intentionally release a `patch` version update that breaks
+  backward compatibility
+* A `minor` release **may include backward-incompatible changes** but we will
+  write clear upgrading instructions in UPGRADING.md
+* A `minor` or `patch` release will never remove icons
+* Bug fixes will be addressed as `patch` releases unless they include backward
+  incompatibility then they will be `minor` releases
+
+## License
+
+Font Awesome Free is free, open source, and GPL friendly. You can use it for
+commercial projects, open source projects, or really almost whatever you want.
+
+- Icons — CC BY 4.0 License
+  - In the Font Awesome Free download, the CC BY 4.0 license applies to all icons packaged as .svg and .js files types.
+- Fonts — SIL OFL 1.1 License
+  - In the Font Awesome Free download, the SIL OLF license applies to all icons packaged as web and desktop font files.
+- Code — MIT License
+  - In the Font Awesome Free download, the MIT license applies to all non-font and non-icon files.
+
+Attribution is required by MIT, SIL OLF, and CC BY licenses. Downloaded Font
+Awesome Free files already contain embedded comments with sufficient
+attribution, so you shouldn't need to do anything additional when using these
+files normally.
+
+We've kept attribution comments terse, so we ask that you do not actively work
+to remove them from files, especially code. They're a great way for folks to
+learn about Font Awesome.
+
+## Team
+
+https://github.com/orgs/FortAwesome/people
+
+# shadcn/ui
+
+A set of beautifully designed components that you can customize, extend, and build on. Start here then make it your own. Open Source. Open Code. **Use this to build your own component library**.
+
+![hero](apps/v4/public/opengraph-image.png)
+
+## Documentation
+
+Visit https://ui.shadcn.com/docs to view the documentation.
+
+## Contributing
+
+Please read the [contributing guide](/CONTRIBUTING.md).
+
+## License
+
+Licensed under the [MIT license](./LICENSE.md).
+
+<p align="center">
+  <a href="https://github.com/lucide-icons/lucide#gh-light-mode-only">
+    <img src="https://lucide.dev/lucide-logo-repo.svg#gh-light-mode-only" alt="Lucide - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons." width="480">
+  </a>
+  <a href="https://github.com/lucide-icons/lucide#gh-dark-mode-only">
+    <img src="https://lucide.dev/lucide-logo-repo-dark.svg#gh-dark-mode-only" alt="Lucide - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons." width="480">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/lucide-icons/lucide/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-ISC-green" alt="license"></a>
+  <a href="https://www.figma.com/community/plugin/939567362549682242/Lucide-Icons"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="figma installs"></a>
+  <a href="https://github.com/lucide-icons/lucide/actions/workflows/ci.yml"><img src="https://github.com/lucide-icons/lucide/actions/workflows/ci.yml/badge.svg" alt="build status"></a>
+  <a href="https://discord.gg/EH6nSts"><img src="https://img.shields.io/discord/723074157486800936?label=chat&logo=discord&logoColor=%23ffffff&colorB=%237289DA" alt="discord chat"></a>
+</p>
+<p align="center">
+  <a href="https://lucide.dev/icons/">Icons</a>
+  ·
+  <a href="https://lucide.dev/guide/">Guide</a>
+  ·
+  <a href="https://lucide.dev/packages">Packages</a>
+  ·
+  <a href="https://lucide.dev/license">License</a>
+  ·
+  <a href="https://lucide.dev/showcase">Showcase</a>
+</p>
+
+# Lucide
+
+Lucide is an open-source icon library that provides 1600+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. The library aims to make it easier for designers and developers to incorporate icons into their projects by providing several official [packages](https://lucide.dev/packages) to make it easier to use these icons in your project.
+
+## Packages
+
+| Logo | Package | Version | Downloads | Links |
+| ---- | ------- | ------- | --------- | ----- |
+| <img src="https://lucide.dev/framework-logos/js.svg" alt="JS logo" width="48"> | **`lucide`** | [![npm](https://img.shields.io/npm/v/lucide)](https://www.npmjs.com/package/lucide) | ![NPM Downloads](https://img.shields.io/npm/dw/lucide) | [Docs](https://lucide.dev/guide/lucide) · [Source](./packages/lucide) |
+| <img src="https://lucide.dev/framework-logos/react.svg" alt="React logo" width="48"> | **`lucide-react`** | [![npm](https://img.shields.io/npm/v/lucide-react)](https://www.npmjs.com/package/lucide-react) | ![NPM Downloads](https://img.shields.io/npm/dw/lucide-react) | [Docs](https://lucide.dev/guide/react) · [Source](./packages/lucide-react) |
+| <img src="https://lucide.dev/framework-logos/vue.svg" alt="Vue logo" width="48"> | **`@lucide/vue`** | [![npm](https://img.shields.io/npm/v/@lucide/vue)](https://www.npmjs.com/package/@lucide/vue) | ![NPM Downloads](https://img.shields.io/npm/dw/@lucide/vue) | [Docs](https://lucide.dev/guide/vue) · [Source](./packages/vue) |
+| <img src="https://lucide.dev/framework-logos/svelte.svg" alt="Svelte logo" width="48"> | **`@lucide/svelte`** | [![npm](https://img.shields.io/npm/v/@lucide/svelte)](https://www.npmjs.com/package/@lucide/svelte) | ![NPM Downloads](https://img.shields.io/npm/dw/@lucide/svelte) | [Docs](https://lucide.dev/guide/svelte) · [Source](./packages/svelte) |
+| <img src="https://lucide.dev/framework-logos/solid.svg" alt="Solid logo" width="48"> | **`lucide-solid`** | [![npm](https://img.shields.io/npm/v/lucide-solid)](https://www.npmjs.com/package/lucide-solid) | ![NPM Downloads](https://img.shields.io/npm/dw/lucide-solid) | [Docs](https://lucide.dev/guide/solid) · [Source](./packages/lucide-solid) |
+| <img src="https://lucide.dev/framework-logos/preact.svg" alt="Preact logo" width="48"> | **`lucide-preact`** | [![npm](https://img.shields.io/npm/v/lucide-preact)](https://www.npmjs.com/package/lucide-preact) | ![NPM Downloads](https://img.shields.io/npm/dw/lucide-preact) | [Docs](https://lucide.dev/guide/preact) · [Source](./packages/lucide-preact) |
+| <img src="https://lucide.dev/framework-logos/react-native.svg" alt="React Native logo" width="48"> | **`lucide-react-native`** | [![npm](https://img.shields.io/npm/v/lucide-react-native)](https://www.npmjs.com/package/lucide-react-native) | ![NPM Downloads](https://img.shields.io/npm/dw/lucide-react-native) | [Docs](https://lucide.dev/guide/react-native) · [Source](./packages/lucide-react-native) |
+| <img src="https://lucide.dev/framework-logos/angular.svg" alt="Angular logo" width="48"> | **`@lucide/angular`** | [![npm](https://img.shields.io/npm/v/@lucide/angular)](https://www.npmjs.com/package/@lucide/angular) | ![NPM Downloads](https://img.shields.io/npm/dw/@lucide/angular) | [Docs](https://lucide.dev/guide/angular) · [Source](./packages/angular) |
+| <img src="https://lucide.dev/framework-logos/astro.svg" alt="Astro logo" width="48"> | **`@lucide/astro`** | [![npm](https://img.shields.io/npm/v/@lucide/astro)](https://www.npmjs.com/package/@lucide/astro) | ![NPM Downloads](https://img.shields.io/npm/dw/@lucide/astro) | [Docs](https://lucide.dev/guide/astro) · [Source](./packages/astro) |
+| <img src="https://lucide.dev/framework-logos/svg.svg" alt="SVG logo" width="48"> | **`lucide-static`** | [![npm](https://img.shields.io/npm/v/lucide-static)](https://www.npmjs.com/package/lucide-static) | ![NPM Downloads](https://img.shields.io/npm/dw/lucide-static) | [Docs](https://lucide.dev/guide/static) · [Source](./packages/lucide-static) |
+
+### Figma
+
+The Lucide Figma plugin.
+
+Visit [Figma community page](https://www.figma.com/community/plugin/939567362549682242/Lucide-Icons) to install the plugin.
+
+<img width="420" src="https://www.figma.com/community/plugin/939567362549682242/thumbnail" alt="Figma Lucide Cover">
+
+## Contributing
+
+For more info on how to contribute please see the [contribution guidelines](https://github.com/lucide-icons/lucide/blob/main/CONTRIBUTING.md).
+
+Caught a mistake or want to contribute to the documentation? [Edit this page on Github](https://github.com/lucide-icons/lucide/blob/main/README.md)
+
+## About brand logos
+
+Lucide **does not accept** brand logos, and we do not plan to add them in the future. This is due to a combination of **legal restrictions**, **design consistency concerns**, and **practical maintenance reasons**.
+
+[Click here to read our official statement about brand logos in Lucide.](./BRAND_LOGOS_STATEMENT.md)
+
+## Community
+
+Join the community on our [Discord](https://discord.gg/EH6nSts) server!
+
+## License
+
+Lucide is totally free for commercial use and personal use, this software is licensed under the [ISC License](https://github.com/lucide-icons/lucide/blob/main/LICENSE).
+
+## Credits
+
+Thank you to all the people who contributed to Lucide!
+
+<a href="https://github.com/lucide-icons/lucide/graphs/contributors">
+
+<img src="https://opencollective.com/lucide-icons/contributors.svg?width=800" />
+</a>
+
+[//]: <> (Sponsors)
+
+## Sponsors
+
+<a href="https://vercel.com?utm_source=lucide&utm_campaign=oss">
+  <img src="docs/public/vercel.svg" alt="Powered by Vercel" width="200" />
+</a>
+
+<a href="https://www.digitalocean.com/?refcode=b0877a2caebd&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="docs/public/digitalocean.svg" width="200" alt="DigitalOcean Referral Badge" /></a>
+
+### Hero backers 🦸
+
+<a href="https://zephyr-cloud.io/"><img src="docs/public/sponsors/zephyr-cloud.svg" width="180" alt="Zephyr Cloud – From idea to prod: fast micro-frontend delivery!" /></a>
+
+### Awesome backers 🍺
+
+<a href="https://github.com/pdfme/pdfme"><img src="docs/public/sponsors/pdfme.svg" width="180" alt="pdfme – Open-source PDF generation library built with TypeScript and React." /></a>
+<a href="https://www.paxhistoria.co/"><img src="docs/public/sponsors/paxhistoria.svg?" width="180" alt="Pax Historia – An alternate history sandbox game" /></a>
+
+### Backers ☕
+
+<a href="https://www.fina.money/"><img src="docs/public/sponsors/fina-money.png" width="180" alt="Fina Money – Modular Finance Tracker" /></a>
+
+### Other contributors 💸
+
+You can find all our past and non-recurring financial contributors at [our Open Collective page](https://opencollective.com/lucide-icons).
+
