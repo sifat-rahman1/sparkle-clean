@@ -63,7 +63,7 @@
 
 | ID | Fix |
 |---|---|
-| L1 | SVG sprite: **20 `<symbol>` definitions, 79 `<use>` references** — sparkle ×5, checkmark ×15 dedup'd to one symbol each; `pathLength="1"` enables stroke-draw. |
+| L1 | SVG sprite: **19 `<symbol>` definitions, 79 `<use>` references** — sparkle ×5, checkmark ×15 dedup'd to one symbol each; `pathLength="1"` enables stroke-draw. |
 | L2 | Inline `style` attributes reduced to intentional per-instance animation delays (`--dd`) and two icon-color tweaks — all layout styling moved to classes. |
 | L3 | Explicit `::placeholder` styling, AA-verified (`--ink-faint` **5.49:1**, full opacity). |
 | L4 | Form fine print at 12.8px → legible size within the new type scale; legal note styled consistently. |
@@ -91,6 +91,8 @@
 | Meta description | ✅ 150 chars |
 | A11y wiring | ✅ aria-describedby ×3, aria-invalid (JS), aria-expanded ×5, role=list, skip link, focus-visible rings, reduced-motion kill-switch |
 | Leftover build markers / typos | ✅ 0 |
+| Tag balance (27 tag types) | ✅ All open/close balanced — sprite-container defect caught & fixed in final pass |
+| Icon sprite integrity | ✅ 19 symbols, every `use` ref resolves, 0 orphaned symbols |
 
 ## Deliberate craft decisions (anti-"AI-slop" directions taken)
 
