@@ -930,7 +930,8 @@ html.js [data-reveal].in-view{opacity:1;transform:none;transition:opacity .75s v
   /* ── Footer year + no past-date bookings ── */
   document.getElementById('year').textContent = String(new Date().getFullYear());
   var dateInput = document.getElementById('date');
-  dateInput.min = new Date().toISOString().split('T')[0];
+  var today = new Date();
+  dateInput.min = today.getFullYear() + '-' + String(today.getMonth() + 1).padStart(2, '0') + '-' + String(today.getDate()).padStart(2, '0');
 
   /* ── Service preselect from card CTAs ── */
   document.querySelectorAll('.link-arrow[data-service]').forEach(function (link) {
