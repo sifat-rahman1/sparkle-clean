@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sparklecleanbd.netlify.app/sitemap.xml
